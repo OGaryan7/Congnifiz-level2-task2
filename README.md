@@ -73,6 +73,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For any inquiries or issues, please contact:
 
 - **Email:** bablukrpes@gmail.com
-- **GitHub:** [yourusername](https://github.com/OGaryan7)
+- **GitHub:** OGaryan7(https://github.com/OGaryan7)
 
 Thank you for checking out the **Cutting Chai** landing page project! Enjoy exploring the world of tea with us.
